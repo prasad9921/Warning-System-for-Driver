@@ -5,4 +5,4 @@ precise boundary of traffic signs using a convolutional neural network (CNN). Es
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
-![alt text](https://github.com/prasad9921/Warning-System-for-Driver/blob/main/YOLO.png)
+![ScreenShot](https://github.com/prasad9921/Warning-System-for-Driver/blob/main/YOLO.png)
